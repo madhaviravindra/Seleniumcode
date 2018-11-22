@@ -15,6 +15,7 @@ import com.BaseTest.UtilityMethods;
 
 public class CreatePatientRecord extends UtilityMethods
 {
+	//added new comments
 	public WebDriver driver;
 	public int a,b,c,d,e,f,g,h,i,j,k,l;
 	
